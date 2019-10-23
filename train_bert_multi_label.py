@@ -20,7 +20,6 @@ from pytorch_pretrained_bert.optimization import BertAdam
 warnings.filterwarnings("ignore")
 
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '1,2'
 
 # 主函数
 def main():
