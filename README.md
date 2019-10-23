@@ -42,7 +42,7 @@ At the root of the project, you will see:
 - numpy
 - pickle
 - scikit-learn
-- PyTorch 1.0
+- PyTorch 1.1.0
 - matplotlib
 - pandas
 - pytorch_pretrained_bert (load bert model)
