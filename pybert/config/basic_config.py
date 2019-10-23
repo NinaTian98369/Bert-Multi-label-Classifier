@@ -18,10 +18,8 @@ configs = {
     'task':'multi label',
 
     'data':{
-        'raw_data_path': BASE_DIR / 'dataset/raw/train0827.tsv',
+        'raw_data_path': BASE_DIR / 'dataset/raw/train.tsv',# the corpus that contains both train and test
         'train_file_path': BASE_DIR / 'dataset/processed/train.tsv',
-        #'raw_data_path': BASE_DIR / 'dataset/raw/smaller.tsv',  # 总的数据，一般是将train和test何在一起构建语料库
-        #'train_file_path': BASE_DIR / 'dataset/processed/train.tsv',
         'valid_file_path': BASE_DIR / 'dataset/processed/valid.tsv',
         'dev_file_path': BASE_DIR / 'dataset/processed/dev.tsv',
         'test_file_path': BASE_DIR / 'dataset/raw/inference_sentences.txt'
@@ -54,8 +52,7 @@ configs = {
         'warmup_proportion': 0.1,# Proportion of training to perform linear learning rate warmup for. E.g., 0.1 = 10%% of training.
         'gradient_accumulation_steps': 1,# Number of updates steps to accumulate before performing a backward/update pass.
         'learning_rate': 2e-4,
-        'n_gpu': [0,1], # GPU个数,如果只写一个数字，则表示gpu标号从0开始，并且默认使用gpu:0作为controller,
-                       # 如果以列表形式表示，即[1,3,5],则我们默认list[0]作为controller
+        'n_gpu': [0,1,2,3], # Should be a list of your current GPUS 
         'num_workers': multiprocessing.cpu_count(), # 线程个数
         'weight_decay': 1e-5,
         'seed':2018,
@@ -70,9 +67,9 @@ configs = {
         'monitor': 'valid_loss',  # 计算指标
         'early_patience': 20,   # early_stopping
         'save_best_only': True, # 是否保存最好模型
-        'save_checkpoint_freq': 10 # 保存模型频率，当save_best_only为False时候，指定才有作用
+        'save_checkpoint_freq': 500 # Only valid when save_best_only is False
     },
-    'label2id' : { # 标签映射
+    'label2id' : { # Can be multi label
         "positive": 0,
         "negative": 1,
     },
