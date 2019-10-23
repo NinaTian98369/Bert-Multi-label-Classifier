@@ -1,0 +1,4 @@
+[2019-08-28 17:41:05]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-28 17:41:05]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-28 17:41:05]: bert inference.py[line:55] INFO  initializing model
+[2019-08-28 17:41:08]: bert inference.py[line:60] INFO  model predicting....

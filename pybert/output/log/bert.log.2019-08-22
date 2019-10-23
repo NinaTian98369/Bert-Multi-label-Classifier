@@ -1,0 +1,28 @@
+[2019-08-21 18:08:18]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-21 18:08:18]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-21 18:08:49]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-21 18:09:02]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-21 18:09:05]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-21 18:09:05]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-21 18:15:39]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-21 18:15:39]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-21 18:16:09]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-21 18:16:21]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-21 18:16:24]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-21 18:16:24]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-21 19:41:42]: bert trainer.py[line:178] INFO  
+Epoch: 1 -  loss: 0.2536 - f1: 0.8741 - valid_loss: 0.1085 - valid_f1: 0.9555 
+[2019-08-21 19:41:42]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.10853
+[2019-08-21 21:03:59]: bert trainer.py[line:178] INFO  
+Epoch: 2 -  loss: 0.0869 - f1: 0.9643 - valid_loss: 0.0870 - valid_f1: 0.9656 
+[2019-08-21 21:04:00]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.10853 to 0.08697
+[2019-08-21 22:29:08]: bert trainer.py[line:178] INFO  
+Epoch: 3 -  loss: 0.0497 - f1: 0.9796 - valid_loss: 0.0901 - valid_f1: 0.9686 
+[2019-08-21 23:54:18]: bert trainer.py[line:178] INFO  
+Epoch: 4 -  loss: 0.0298 - f1: 0.9879 - valid_loss: 0.1037 - valid_f1: 0.9695 
+[2019-08-22 01:19:15]: bert trainer.py[line:178] INFO  
+Epoch: 5 -  loss: 0.0202 - f1: 0.9918 - valid_loss: 0.1212 - valid_f1: 0.9698 
+[2019-08-22 02:43:55]: bert trainer.py[line:178] INFO  
+Epoch: 6 -  loss: 0.0161 - f1: 0.9935 - valid_loss: 0.1311 - valid_f1: 0.9697 

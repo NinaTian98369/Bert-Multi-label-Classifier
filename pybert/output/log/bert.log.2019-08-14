@@ -1,0 +1,557 @@
+[2019-08-12 18:35:04]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 18:35:04]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 18:56:46]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 18:56:46]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 18:59:19]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 18:59:19]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:33:18]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:33:18]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:35:33]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:35:33]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:38:16]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:38:16]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:39:41]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:39:41]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:39:59]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 19:41:36]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:41:36]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:41:53]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 19:42:03]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 19:42:06]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 19:42:06]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 19:42:06]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 19:43:53]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:43:53]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:44:11]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 19:44:22]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 19:44:25]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 19:44:25]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 19:44:25]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 19:45:51]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:45:51]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:46:09]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 19:46:22]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 19:46:26]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 19:46:26]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 19:46:26]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 19:51:49]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:51:49]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:52:06]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 19:52:24]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 19:52:27]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 19:52:27]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 19:52:27]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 19:55:04]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:55:04]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:55:21]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 19:55:31]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 19:55:34]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 19:55:34]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 19:55:35]: bert utils.py[line:43] INFO  current 3 GPUs
+[2019-08-12 19:57:42]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:57:42]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 19:58:01]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 19:58:12]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 19:58:15]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 19:58:15]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 19:58:15]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 19:59:49]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 19:59:49]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 20:00:07]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 20:00:15]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 20:00:18]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 20:00:18]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 20:00:18]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 20:01:19]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 20:01:19]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 20:01:37]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 20:01:46]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 20:01:49]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 20:01:49]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 20:01:49]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 20:01:54]: bert trainer.py[line:31] INFO  
+Loading checkpoint: True
+[2019-08-12 20:02:09]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 20:02:09]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 20:02:27]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 20:02:39]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 20:02:42]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 20:02:42]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 20:02:42]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 20:07:04]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 20:07:04]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 20:07:22]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 20:07:32]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 20:07:35]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 20:07:35]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 20:07:35]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 20:45:17]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 20:45:17]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 20:45:36]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 20:45:47]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 20:45:50]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 20:45:50]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 20:45:50]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 20:58:33]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 20:58:33]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 20:58:41]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 20:58:45]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 20:58:48]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 20:58:48]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 20:58:48]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 21:00:00]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 21:00:00]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 21:00:08]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 21:00:14]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 21:00:17]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 21:00:17]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 21:00:17]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 21:12:22]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 21:12:22]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 21:12:29]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 21:12:34]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 21:12:37]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 21:12:37]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 21:12:37]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 21:15:59]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 21:15:59]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 21:16:07]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 21:18:38]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 21:18:38]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 21:18:40]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 21:18:40]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 21:18:43]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 21:18:43]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 21:18:43]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 21:21:26]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 21:21:26]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 21:21:40]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 21:21:47]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 21:21:50]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 21:21:50]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 21:21:50]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 21:23:02]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 21:23:02]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 21:23:17]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 21:23:26]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 21:23:29]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 21:23:29]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 21:23:29]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 21:55:33]: bert trainer.py[line:177] INFO  
+Epoch: 1 -  loss: 0.2163 - f1: 0.9113 - valid_loss: 0.0793 - valid_f1: 0.9688 
+[2019-08-12 21:55:33]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.07932
+[2019-08-12 22:27:23]: bert trainer.py[line:177] INFO  
+Epoch: 2 -  loss: 0.0656 - f1: 0.9752 - valid_loss: 0.0651 - valid_f1: 0.9751 
+[2019-08-12 22:27:26]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.07932 to 0.06509
+[2019-08-12 22:59:33]: bert trainer.py[line:177] INFO  
+Epoch: 3 -  loss: 0.0321 - f1: 0.9882 - valid_loss: 0.0769 - valid_f1: 0.9768 
+[2019-08-12 23:31:29]: bert trainer.py[line:177] INFO  
+Epoch: 4 -  loss: 0.0161 - f1: 0.9944 - valid_loss: 0.0845 - valid_f1: 0.9773 
+[2019-08-12 23:31:56]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 23:31:56]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 23:32:10]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 23:32:17]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 23:32:19]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 23:32:19]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 23:32:19]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 23:34:24]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 23:34:24]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 23:34:38]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 23:34:44]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 23:34:46]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 23:34:46]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 23:34:46]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 23:39:51]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 23:39:51]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 23:39:51]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 23:39:51]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 23:39:54]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 23:39:54]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 23:39:54]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 23:40:36]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 23:40:36]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 23:40:37]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 23:40:38]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 23:40:40]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 23:40:40]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 23:40:40]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 23:41:57]: bert trainer.py[line:177] INFO  
+Epoch: 1 -  loss: 0.7035 - f1: 0.4815 - valid_loss: 0.6903 - valid_f1: 0.5308 
+[2019-08-12 23:41:57]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.69030
+[2019-08-12 23:43:07]: bert trainer.py[line:177] INFO  
+Epoch: 2 -  loss: 0.6896 - f1: 0.5303 - valid_loss: 0.6883 - valid_f1: 0.5304 
+[2019-08-12 23:43:08]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.69030 to 0.68828
+[2019-08-12 23:44:18]: bert trainer.py[line:177] INFO  
+Epoch: 3 -  loss: 0.6884 - f1: 0.5349 - valid_loss: 0.6872 - valid_f1: 0.5295 
+[2019-08-12 23:44:18]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.68828 to 0.68720
+[2019-08-12 23:45:28]: bert trainer.py[line:177] INFO  
+Epoch: 4 -  loss: 0.6882 - f1: 0.5360 - valid_loss: 0.6868 - valid_f1: 0.5297 
+[2019-08-12 23:45:29]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 4: valid_loss improved from 0.68720 to 0.68684
+[2019-08-12 23:46:39]: bert trainer.py[line:177] INFO  
+Epoch: 5 -  loss: 0.6879 - f1: 0.5382 - valid_loss: 0.6867 - valid_f1: 0.5294 
+[2019-08-12 23:46:39]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 5: valid_loss improved from 0.68684 to 0.68672
+[2019-08-12 23:47:51]: bert trainer.py[line:177] INFO  
+Epoch: 6 -  loss: 0.6875 - f1: 0.5385 - valid_loss: 0.6867 - valid_f1: 0.5293 
+[2019-08-12 23:47:51]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 6: valid_loss improved from 0.68672 to 0.68670
+[2019-08-12 23:49:08]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-12 23:49:08]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-12 23:49:10]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-12 23:49:10]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-12 23:49:13]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-12 23:49:13]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-12 23:49:13]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-12 23:50:32]: bert trainer.py[line:177] INFO  
+Epoch: 1 -  loss: 0.7226 - f1: 0.4322 - valid_loss: 0.6973 - valid_f1: 0.1655 
+[2019-08-12 23:50:32]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.69727
+[2019-08-12 23:51:42]: bert trainer.py[line:177] INFO  
+Epoch: 2 -  loss: 0.6920 - f1: 0.4938 - valid_loss: 0.6902 - valid_f1: 0.5311 
+[2019-08-12 23:51:42]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.69727 to 0.69019
+[2019-08-12 23:52:53]: bert trainer.py[line:177] INFO  
+Epoch: 3 -  loss: 0.6899 - f1: 0.5318 - valid_loss: 0.6880 - valid_f1: 0.5289 
+[2019-08-12 23:52:53]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.69019 to 0.68803
+[2019-08-13 00:03:59]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 00:03:59]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 00:04:14]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 00:04:20]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 00:04:23]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 00:04:23]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 00:04:23]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 00:14:16]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 00:14:16]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 00:14:30]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 00:14:37]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 00:14:40]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 00:14:40]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 00:14:40]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 00:46:31]: bert trainer.py[line:177] INFO  
+Epoch: 1 -  loss: 0.2158 - f1: 0.9114 - valid_loss: 0.0799 - valid_f1: 0.9688 
+[2019-08-13 00:46:31]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.07994
+[2019-08-13 01:36:58]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 01:36:58]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 01:36:58]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 01:37:00]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 01:37:01]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 01:39:06]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 01:39:06]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 01:39:06]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 01:39:10]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 01:39:11]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 01:40:05]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 01:40:05]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 01:40:05]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 01:40:08]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 01:40:08]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 01:41:07]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 01:41:07]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 01:41:07]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 01:41:10]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 01:43:06]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 01:43:06]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 01:44:20]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 01:44:20]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 01:44:55]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 01:44:55]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 01:45:09]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 01:45:14]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 01:45:17]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 01:45:17]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 01:46:37]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 01:46:37]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 01:46:51]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 01:46:56]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 01:46:59]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 01:46:59]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 01:46:59]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 01:48:13]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 01:48:13]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 01:48:13]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 01:48:16]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 01:48:16]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 01:48:39]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 01:48:39]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 01:48:39]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 01:48:42]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 01:48:42]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 01:50:52]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 01:50:52]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 01:50:52]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 01:50:55]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 01:52:43]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 01:52:43]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 01:52:57]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 01:53:03]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 01:53:05]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 01:53:05]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 01:54:51]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 01:54:51]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 01:55:05]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 01:55:11]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 01:55:14]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 01:55:14]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 01:55:14]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 01:56:39]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 01:56:39]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 01:56:53]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 01:57:00]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 01:57:03]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 01:57:03]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 01:57:03]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:03:04]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:03:04]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:03:18]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:03:24]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:03:26]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:03:26]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:03:27]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:07:27]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:07:27]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:07:43]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:07:50]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:07:53]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:07:53]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:07:53]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:08:53]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:08:53]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:09:07]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:09:13]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:09:16]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:09:16]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:09:16]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:10:11]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:10:11]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:10:12]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:10:13]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:10:15]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:10:15]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:10:15]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:12:52]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:12:52]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:12:54]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:12:55]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:12:57]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:12:57]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:12:57]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:13:13]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:13:13]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:13:14]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:13:15]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:13:18]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:13:18]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:15:46]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:15:46]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:15:48]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:15:49]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:15:51]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:15:51]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:17:57]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:17:57]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:17:58]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:17:59]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:18:02]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:18:02]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:19:13]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:19:13]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:19:15]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:19:15]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:19:18]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:19:18]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:21:33]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:21:33]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:21:34]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:21:35]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:21:38]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:21:38]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:22:58]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:22:58]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:22:59]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:22:59]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:23:02]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:23:02]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:24:44]: bert train_bert_multi_label.py[line:29] INFO  seed is 2018
+[2019-08-13 02:24:44]: bert train_bert_multi_label.py[line:32] INFO  starting load data from disk
+[2019-08-13 02:24:58]: bert data_transformer.py[line:84] INFO  train val split
+[2019-08-13 02:25:04]: bert train_bert_multi_label.py[line:79] INFO  initializing model
+[2019-08-13 02:25:06]: bert train_bert_multi_label.py[line:102] INFO  initializing callbacks
+[2019-08-13 02:25:06]: bert train_bert_multi_label.py[line:120] INFO  training model....
+[2019-08-13 02:26:05]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:26:05]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:26:05]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:26:08]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:26:46]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:26:46]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:26:46]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:26:49]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:28:11]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:28:11]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:28:11]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:28:14]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:29:13]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:29:13]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:29:13]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:29:16]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:29:16]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:29:39]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:29:39]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:29:39]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:29:42]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:29:42]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:30:24]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:30:24]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:30:24]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:30:27]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:30:27]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:32:03]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:32:03]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:32:03]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:32:06]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:32:06]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:32:15]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:32:15]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:32:16]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:32:19]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:32:19]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:32:55]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:32:55]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:32:55]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:32:58]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:32:58]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:34:07]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:34:07]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:34:07]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:34:10]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:34:10]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:34:47]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:34:47]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:34:47]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:34:50]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:34:50]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:35:39]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:35:40]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:35:40]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:35:42]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:35:43]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:36:44]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:36:44]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:36:44]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:36:48]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:36:48]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:37:43]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:37:43]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:37:43]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:37:46]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:37:46]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:38:16]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:38:16]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:38:16]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:38:19]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:38:19]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:40:10]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:40:10]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:40:10]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:40:13]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:40:13]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:40:51]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:40:51]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:40:51]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:40:54]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:43:47]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:43:47]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:43:47]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:43:50]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:43:50]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:43:59]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:43:59]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:43:59]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:44:02]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:44:02]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-13 02:44:50]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:44:50]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:44:50]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:44:53]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:53:05]: bert trainer.py[line:178] INFO  
+Epoch: 1 -  loss: 0.2154 - f1: 0.9114 - valid_loss: 0.0793 - valid_f1: 0.9689 
+[2019-08-13 02:53:05]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.07928
+[2019-08-13 02:54:58]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:54:58]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:54:58]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:55:01]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 02:57:55]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 02:57:55]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 02:57:55]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 02:57:58]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 03:21:02]: bert trainer.py[line:178] INFO  
+Epoch: 2 -  loss: 0.0648 - f1: 0.9754 - valid_loss: 0.0656 - valid_f1: 0.9757 
+[2019-08-13 03:21:02]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.07928 to 0.06564
+[2019-08-13 03:49:00]: bert trainer.py[line:178] INFO  
+Epoch: 3 -  loss: 0.0315 - f1: 0.9885 - valid_loss: 0.0767 - valid_f1: 0.9767 
+[2019-08-13 04:16:55]: bert trainer.py[line:178] INFO  
+Epoch: 4 -  loss: 0.0161 - f1: 0.9943 - valid_loss: 0.0881 - valid_f1: 0.9774 
+[2019-08-13 04:44:38]: bert trainer.py[line:178] INFO  
+Epoch: 5 -  loss: 0.0093 - f1: 0.9969 - valid_loss: 0.0989 - valid_f1: 0.9779 
+[2019-08-13 05:12:39]: bert trainer.py[line:178] INFO  
+Epoch: 6 -  loss: 0.0074 - f1: 0.9976 - valid_loss: 0.1028 - valid_f1: 0.9776 
+[2019-08-13 13:06:57]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:06:57]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:06:58]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 13:07:03]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 13:09:55]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:09:55]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:09:56]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 13:09:58]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 13:10:12]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:10:12]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:10:13]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 13:10:16]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 13:10:58]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:10:58]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:10:59]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 13:11:02]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 13:13:53]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:13:53]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:13:54]: bert inference.py[line:53] INFO  initializing model
+[2019-08-13 13:13:57]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-13 13:20:31]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:20:31]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:20:32]: bert inference.py[line:58] INFO  initializing model
+[2019-08-13 13:20:35]: bert inference.py[line:63] INFO  model predicting....
+[2019-08-13 13:23:33]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:23:33]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:23:34]: bert inference.py[line:56] INFO  initializing model
+[2019-08-13 13:24:37]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:24:37]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:24:38]: bert inference.py[line:56] INFO  initializing model
+[2019-08-13 13:24:40]: bert inference.py[line:61] INFO  model predicting....
+[2019-08-13 13:29:04]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:29:04]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:29:05]: bert inference.py[line:55] INFO  initializing model
+[2019-08-13 13:29:08]: bert inference.py[line:60] INFO  model predicting....
+[2019-08-13 13:30:36]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-13 13:30:36]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-13 13:30:37]: bert inference.py[line:55] INFO  initializing model
+[2019-08-13 13:30:40]: bert inference.py[line:60] INFO  model predicting....
+[2019-08-14 03:04:13]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-14 03:04:13]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-14 03:04:14]: bert inference.py[line:55] INFO  initializing model
+[2019-08-14 03:04:16]: bert inference.py[line:60] INFO  model predicting....
+[2019-08-14 03:04:35]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-14 03:04:35]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-14 03:04:35]: bert inference.py[line:55] INFO  initializing model
+[2019-08-14 03:04:39]: bert inference.py[line:60] INFO  model predicting....
+[2019-08-14 03:05:21]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-14 03:05:21]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-14 03:05:21]: bert inference.py[line:55] INFO  initializing model
+[2019-08-14 03:05:24]: bert inference.py[line:60] INFO  model predicting....

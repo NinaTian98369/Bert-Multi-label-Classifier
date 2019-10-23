@@ -1,0 +1,15 @@
+[2019-08-08 23:05:39]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-08 23:05:39]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-08 23:05:40]: bert inference.py[line:53] INFO  initializing model
+[2019-08-08 23:05:42]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-08 23:05:46]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-08 23:06:23]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-08 23:06:23]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-08 23:06:23]: bert inference.py[line:53] INFO  initializing model
+[2019-08-08 23:06:26]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-08 23:06:30]: bert utils.py[line:43] INFO  current 2 GPUs
+[2019-08-09 00:06:00]: bert inference.py[line:24] INFO  seed is 2018
+[2019-08-09 00:06:00]: bert inference.py[line:27] INFO  starting load data from disk
+[2019-08-09 00:06:00]: bert inference.py[line:53] INFO  initializing model
+[2019-08-09 00:06:03]: bert inference.py[line:58] INFO  model predicting....
+[2019-08-09 00:06:07]: bert utils.py[line:43] INFO  current 2 GPUs
