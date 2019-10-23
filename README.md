@@ -1,7 +1,9 @@
 # Bert multi-label text classification by PyTorch
 
 This repo contains a PyTorch implementation of a pretrained BERT model  for multi-label text classification.
+Note that this is code uses an old version of Hugging Face's Transformoer. 
 
+Tested on PyTorch 1.1.0
 
 
 ## Structure of the code
